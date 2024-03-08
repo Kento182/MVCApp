@@ -1,0 +1,6 @@
+Add-Migration InitialCreate
+Update-Database
+
+Add-Migration Rating
+
+Proyecto 1 del curso de desarrollo web en .NET Core - Ricardo Gonzalez
